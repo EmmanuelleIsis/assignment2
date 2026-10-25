@@ -1,0 +1,404 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        6.4109296798706055,
+        6.452033042907715,
+        1.1030818223953247
+      ],
+      "min": [
+        -7.481159210205078,
+        -7.8848795890808105,
+        -3.4283690452575684
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9996143579483032,
+        0.9999301433563232,
+        0.9999973773956299
+      ],
+      "min": [
+        -0.999984622001648,
+        -0.9999213218688965,
+        -0.9999619722366333
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999645352363586,
+        0.9998282194137573,
+        0.9999569058418274,
+        1.0
+      ],
+      "min": [
+        -0.9999984502792358,
+        -0.9999865889549255,
+        -0.999969482421875,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999939501285553,
+        0.9997289776802063
+      ],
+      "min": [
+        5.01199574500788e-05,
+        5.012103065382689e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9765023589134216,
+        0.9942820072174072
+      ],
+      "min": [
+        0.017695369198918343,
+        0.004774065688252449
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 264663,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 19488,
+      "max": [
+        6.390278339385986,
+        6.450974464416504,
+        1.1067991256713867
+      ],
+      "min": [
+        -7.480621814727783,
+        -7.803623676300049,
+        -3.4283690452575684
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1806624,
+      "componentType": 5126,
+      "count": 19488,
+      "max": [
+        0.9994643926620483,
+        0.9997245073318481,
+        0.999994158744812
+      ],
+      "min": [
+        -0.9999861717224121,
+        -0.9989802241325378,
+        -0.9999619722366333
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 19488,
+      "max": [
+        0.9999823570251465,
+        0.9997063875198364,
+        0.9998160004615784,
+        1.0
+      ],
+      "min": [
+        -0.9998902678489685,
+        -0.999955952167511,
+        -0.9999821782112122,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 19488,
+      "max": [
+        0.9999498724937439,
+        0.9999498724937439
+      ],
+      "min": [
+        5.01199574500788e-05,
+        5.012103065382689e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1204416,
+      "componentType": 5126,
+      "count": 19488,
+      "max": [
+        0.9750771522521973,
+        0.994208812713623
+      ],
+      "min": [
+        0.01773238368332386,
+        0.010382147505879402
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1058652,
+      "componentType": 5125,
+      "count": 35334,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Loïc Norgeot (https://sketchfab.com/norgeotloic)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/beg-ar-groaz-d3e8a075ec4b41a08de5b5a3df6befaa",
+      "title": "\"Beg Ar Groaz\""
+    },
+    "generator": "Sketchfab-12.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1199988,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1360320,
+      "byteOffset": 1199988,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2040480,
+      "byteOffset": 2560308,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1360320,
+      "byteOffset": 4600788,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5961108,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/begargroas_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/begargroas_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "begargroas",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7761051829
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "begargroas_begargroas_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "begargroas_begargroas_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.014924494549632072,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.3139034959788366e-18,
+        -0.014924494549632072,
+        0.0,
+        0.0,
+        0.014924494549632072,
+        3.3139034959788366e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "BegArGroas.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -4.371139006309477e-06,
+        -99.9999999999999,
+        0.0,
+        0.0,
+        99.9999999999999,
+        -4.371139006309477e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "begargroas"
+    },
+    {
+      "mesh": 0,
+      "name": "begargroas_begargroas_0"
+    },
+    {
+      "mesh": 1,
+      "name": "begargroas_begargroas_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
