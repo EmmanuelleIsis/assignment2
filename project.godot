@@ -36,3 +36,4 @@ window/stretch/aspect="expand"
 
 rendering_device/driver.windows="d3d12"
 scaling_3d/scale=0.85
+occlusion_culling/use_occlusion_culling=true
