@@ -38,3 +38,4 @@ rendering_device/driver.windows="d3d12"
 lights_and_shadows/directional_shadow/size=1024
 scaling_3d/scale=0.85
 occlusion_culling/use_occlusion_culling=true
+mesh_lod/lod_change/threshold_pixels=2.0
